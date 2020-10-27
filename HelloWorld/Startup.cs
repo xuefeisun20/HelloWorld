@@ -25,6 +25,7 @@ namespace HelloWorld
         {
             // test 001
             services.AddControllersWithViews();
+            //test 002
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
