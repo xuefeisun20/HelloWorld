@@ -34,3 +34,15 @@ C:\WorkSpace\TestProject\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorl
 C:\WorkSpace\TestProject\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
 C:\WorkSpace\TestProject\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.genruntimeconfig.cache
 C:\WorkSpace\TestProject\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.CopyComplete
+C:\WorkSpace\TestProject\HelloWorld\HelloWorld\bin\netcoreapp3.1\appsettings.Development.json
+C:\WorkSpace\TestProject\HelloWorld\HelloWorld\bin\netcoreapp3.1\appsettings.json
+C:\WorkSpace\TestProject\HelloWorld\HelloWorld\bin\netcoreapp3.1\Properties\launchSettings.json
+C:\WorkSpace\TestProject\HelloWorld\HelloWorld\bin\netcoreapp3.1\HelloWorld.exe
+C:\WorkSpace\TestProject\HelloWorld\HelloWorld\bin\netcoreapp3.1\test.cs
+C:\WorkSpace\TestProject\HelloWorld\HelloWorld\bin\netcoreapp3.1\HelloWorld.deps.json
+C:\WorkSpace\TestProject\HelloWorld\HelloWorld\bin\netcoreapp3.1\HelloWorld.runtimeconfig.json
+C:\WorkSpace\TestProject\HelloWorld\HelloWorld\bin\netcoreapp3.1\HelloWorld.runtimeconfig.dev.json
+C:\WorkSpace\TestProject\HelloWorld\HelloWorld\bin\netcoreapp3.1\HelloWorld.dll
+C:\WorkSpace\TestProject\HelloWorld\HelloWorld\bin\netcoreapp3.1\HelloWorld.pdb
+C:\WorkSpace\TestProject\HelloWorld\HelloWorld\bin\netcoreapp3.1\HelloWorld.Views.dll
+C:\WorkSpace\TestProject\HelloWorld\HelloWorld\bin\netcoreapp3.1\HelloWorld.Views.pdb
