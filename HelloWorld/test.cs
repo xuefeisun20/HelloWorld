@@ -9,7 +9,7 @@ namespace HelloWorld
     {
         public void ConfigureServices(int num)
         {
-           //test
+            int nmber = num;
         }
     }
 }
