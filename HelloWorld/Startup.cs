@@ -23,12 +23,7 @@ namespace HelloWorld
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            // test 001
             services.AddControllersWithViews();
-            //test 002
-            //test 005
-            //test 004
-            //test 005
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
